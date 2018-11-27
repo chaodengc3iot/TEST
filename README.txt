@@ -11,3 +11,9 @@ local new branch update at 1:44am
 new_branch2 changes at 2:01am
 
 add new_branch2_copy changes at 10:24am
+
+Update the master branch, 16:56, On Nov 26th, 2018. 
+
+Master change at 1:42am
+
+add changes at new_branch2
